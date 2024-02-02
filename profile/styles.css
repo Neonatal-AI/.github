@@ -1,6 +1,6 @@
 body {
         font-family: 'Helvetica', sans-serif;
-        background: url('https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem-ascii-art.png'); 
+        background: url('https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem-ascii-art.png') center center fixed; 
         color: #333; /* Set your desired text color */
         margin: 20px;
         padding: 20px;
