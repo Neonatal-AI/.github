@@ -22,4 +22,3 @@ Use tools like LLMs to improve the work flow of healthcare professionals, facili
 
 
 ## Contributors
-</body
