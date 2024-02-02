@@ -1,8 +1,3 @@
-
-<iframe src="./index.html" width="100%" height="300"></iframe>
-
-
-
 # Neonatal-AI
 Implementing AI solutions for UofL Health
 ## Mission Statement
