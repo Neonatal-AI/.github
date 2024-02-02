@@ -1,4 +1,13 @@
-![logo](https://github.com/Neonatal-AI/.github/blob/main/uofl_med_emblem-ascii-art.png) 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+
 # Neonatal-AI
 Implementing AI solutions for UofL Health
 ## Mission Statement
@@ -17,5 +26,10 @@ Use tools like LLMs to improve the work flow of healthcare professionals, facili
 <a href="https://nodejs.org/about">
   <img src="https://chris-noring.gallerycdn.vsassets.io/extensions/chris-noring/node-snippets/1.3.3/1636325666317/Microsoft.VisualStudio.Services.Icons.Default" alt="NODE" width="75" height="75">
 </a>
+<a href="https://openai.com/">
+  <img src="https://static.vecteezy.com/system/resources/previews/021/495/993/original/chatgpt-openai-logo-icon-free-png.png" alt="OpenAI" width="75" height="75">
+</a>
+
 
 ## Contributors
+</body
